@@ -1,12 +1,8 @@
 #
-# Создание и продвижение сайтов в Витебске в Веб-студии Два Кота Database Dump
-# MODX Version:1.4.7
-# 
 # Host: 
 # Generation Time: 27-06-2020 12:33:43
 # Server version: 5.5.64-MariaDB
-# PHP Version: 7.3.11
-# Database: `by996_cats`
+
 # Description: 
 #
 
